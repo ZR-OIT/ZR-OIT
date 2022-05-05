@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ZR-OIT
-- 👀 I’m interested in programming, circuits, gaming, 3D printing, skateboarding, and more!
+- 👋 Hi, I’m Zak! (@ZR-OIT)
+- 👀 I’m interested in programming, circuits, gaming, 3D printing, skateboarding, and more.
 - 🌱 I’m currently learning computer hardware engineering, programming, and Fusion 360.
 - 📫 How to reach me ... linkedin.com/in/zak-rowland
 
